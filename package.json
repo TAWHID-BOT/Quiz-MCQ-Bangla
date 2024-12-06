@@ -1,0 +1,14 @@
+{
+    "name": "history-mcq",
+    "version": "1.0.0",
+    "description": "বাংলায় ইতিহাস ভিত্তিক মাল্টিপল চয়েস প্রশ্নের একটি ওপেন সোর্স প্রজেক্ট।",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "node-fetch": "^3.3.1"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+}
